@@ -1,0 +1,9 @@
+List of things to add:
+1. learn how to make the game operate from two script.py files. one for main,
+one for dressup, and one for flashcards
+        easy, just keep labels fresh. will jump automatically.
+2. learn how saves work
+        scores will be saved.
+3. learn how to add saveable features like points
+4. dress up mini game? look into mini games
+        gg
