@@ -3,7 +3,7 @@ label A1Kapital1:
     init python:
         # loadedFromSave = False
         A1K1vocabArray = []
-        with open(config.basedir + "/game/vocablists/trialvocab.txt", "r") as f:
+        with open(config.basedir + "/game/vocablists/A1Kapital1.txt", "r") as f:
 
 #        with open(config.basedir + "/game/vocablists/kapital1vocab.txt", "r") as f:
             content = f.readlines()
