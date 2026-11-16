@@ -1,0 +1,197 @@
+Bulgarisch ; Bulgarian
+Deutsch ; German
+Englisch ; English
+gut ; good
+guten Tag ; good day
+Indonesisch ; Indonesian
+international ; international
+Italienisch ; Italian
+Japanisch ; Japanese
+Russisch ; Russian
+Serbisch ; Serbian
+Sie ; you (formal)
+Türkisch ; Turkish
+Ungarisch ; Hungarian
+was ; what
+zu ordnen ; assign
+die Autobahn ; the highway
+das Butterbrot ; the butter bread
+das ; the (masculine)
+der ; the (neuter)
+die ; the (feminine)
+die Flasche ; the bottle
+das Handtuch ; the handtowel
+der Kindergarten ; the kindergarten
+der Koffer ; the suitcase
+der/die Kranke ; the illness
+die Nudel ; the noodle
+das Würtschen ; the little sausage
+das Würstel ; the sausage
+auf ; out
+heißen ; to be called
+Ihr ; her
+in ; in
+Spanisch ; spanish
+die Sprache ; the language
+wie ; how
+das Wort ; the word
+andere ; other
+ein ; a
+kennen ; to know
+das Kursplakat ; the course poster
+machen ; to make
+sammeln ; collect
+auch ; also
+bis bald ; see you soon
+ciao ; bye
+danke ; thank you
+dir ; to you
+du ; you
+die Entschuldigung ; the apology
+ganz ; quite
+gehen ; to go
+hallo ; hello
+hören ; to hear
+ich ; I
+lesen ; to read
+die Person ; the person
+sehr ; very
+sein ; to be
+tschüs ; bye
+wer ; who
+die Situation ; the situation
+spielen ; to play
+bekannt ; known
+der Name ; the name
+oder ; or
+auf Wiedersehen ; goodbye
+das ; that
+es ; it
+Frau ; Mrs.
+gute Nacht ; good night
+guten Abend ; good afternoon
+guten Morgan ; good morning
+Herr ; Mr.
+Ihnen ; them
+mein ; my
+formell ; formal
+informell ; informal
+das Nachname ; the lastname
+das Personalpronomen ; the personal pronoun
+das Verb ; the verb
+der Vorname ; the first name
+die Antwort ; the answer
+aus ; from
+Deutschland ; Germany
+kommen ; to come
+der Reiseführer ; the male tour guide
+die Reiseführerin ; the female tour guide
+sprechen ; to speak
+das Telefon ; the telephone
+welche ; which
+wo ; where
+woher ; where from
+der Aussagesatz ; teh declarative sentence
+den ; the (accusitive)
+das Interview ; the interview
+variieren ; to vary
+die W-Frage ; the w-question
+er ; he
+ergänzen ; to complete
+sie ; she
+notieren ; to note down
+zwei ; two
+der Partner ; the male partner
+die Partnerin ; the female partner
+raten ; to guess
+vor stellen ; to introduce
+acht ; eight
+achtzehn ; eighteen
+der Buchstabe ; the letter
+dann ; then
+drei ; three
+dreizehn ; thirteen
+eins ; one
+elf ; eleven
+fünf ; five
+fünfzehn ; fifteen
+laut ; loud
+mit sprechen ; to repeat after someone
+neun ; nine
+neunzehn ; nineteen
+null ; zero
+sechs ; six
+sechszehn ; sixteen
+sieben ; seven
+siebzehn ; seventeen
+vier ; four
+vierzehn ; fourteen
+die Zahl ; the number
+zehn ; ten
+zwanzig ; twenty
+zwölf ; twelve
+die Handynummer ; the phone number
+dein ; masculine your
+deine ; feminine your
+fragen ; to ask
+nach ; about
+die Telefonnummer ; the telephone number
+das Alphabet ; the alphabet
+mit lesen ; to read along
+zuerst ; first
+die E-Mail-Adresse ; the e-mail address
+das Gespräch ; the conversation
+man ; one
+minus ; minus
+der Punkt ; the point
+sagen ; to say
+schreiben ; to write
+der Unterstrich ; the underscore
+bitte ; please
+buchstabieren ; to spell
+der Dialog ; the dialogue
+ein bisschen ; a little
+langsam ; slowly
+nicht ; not
+noch einmal ; once again
+verstehen ; to understand
+Algerien ; Algeria
+Arabisch ; Arabic
+Brasilien ; Brazil
+Französisch ; French
+Japan ; Japan
+das Land ; the country
+lernen ; to learn
+Österreich ; Australia
+Portugiesisch ; Portuguese
+die Schweiz ; Switzerland
+die Tabelle ; the table
+die USA ; the USA
+Frankreich ; France
+Griechenland ; Greece
+Italien ; Italy
+Mexiko ; Mexico
+Portugal ; Portugal
+Thailand ; Thailand
+Polen ; Poland
+Polnisch ; Polish
+Rätoromanisch ; Romanian
+Russland ; Russia
+Spanien ; Spain
+die Türkei ; Turkey
+die Ukraine ; Ukraine
+zu ; to
+zwei ; two
+kurz ; short
+die Stadt ; teh city
+der Text ; the text
+das Befinden ; the well-being
+darauf ; to that
+die Grammatik ; the grammar
+grüßen ; to greet
+reagieren ; to react
+das Redemittel ; the linguistic device
+das Subjekt ; the subject
+über ; over
+verabschieden ; to leave
+das W-Wort ; the w-word
