@@ -1,5 +1,248 @@
-one
-two
-three
-four
-five
+gern
+die Leute
+fotografieren
+der Freund
+die Fruendin
+joggen
+der Kollege
+die Kollegin
+die Musik
+singen
+tanzen
+an kreuzen
+gehen
+das Kino
+kochen
+reisen
+schwimmen
+antworten
+arbeiten
+gehen
+ja
+nein
+so
+das Buch
+Fußball
+lieben
+die Sensation
+super
+toll
+wir
+am
+arbeiten
+die Endung
+das Foto
+ihr
+der Kommentar
+lustig
+der Moment
+morgen
+die Spaghetti
+von
+wirklich
+das Wochenende
+dritt
+die Form
+der Infinitiv
+nennen
+das Hobby
+mit
+der Dienstag
+der Donnerstag
+der Freitag
+der Mittwoch
+der Montag
+der Samstag
+der Sonntag
+wann
+der Wochentag
+die Frage
+gehen
+leider
+nach sprechen
+nachgesprochen
+die Satzmelodie
+achten
+auf
+für
+oft
+das Cafe
+durch
+die Ja/Nein Frage
+jede
+dur Kursraum
+das Museum
+das Restaurant
+das Schwimmbad
+das Stadion
+der Tag
+der Termin
+das Theater
+die Verabredung
+der Artikel
+der Arzt
+die Ärztin
+das Auto
+der Beruf
+bestimmt
+der Computer
+feminin
+geben
+das Geld
+das Glas
+der Kellner
+die Kellnerin
+maskulin
+das Medikament
+mehrere
+die Möglichkeit
+neutrum
+passen
+der Plural
+die Rechnung
+der Schlüssel
+die Spritze
+der Stift
+die Straße
+der Student
+die Studentin
+die Tablette
+der Taxifahrer
+die Taxifahrerin
+zu
+markieren
+das Nomen
+das Kapital
+der Kurs
+der Lernwortschatz
+die Seite
+suchen
+das Übungsbuch
+vergleichen
+weitere
+der Abend
+aber
+alt
+bei
+fahren
+groß
+haben
+hier
+das Jahr
+der Kilometer
+das Krankenhaus
+der Krankenpfleger
+die Krankenpflegerin
+meistens
+der Nachmittag
+nachts
+der Patient
+die Patientin
+der Platz
+pro
+das Seminar
+die Stunde
+die Universität
+viel
+von
+warten
+die Woche
+das Zimmer
+ab
+alle
+einhundert
+hundert
+unterstreichen
+die Information
+von
+präsentieren
+die Pluralform
+der Singular
+Zimmer
+die Pluralendung
+gegenseitig
+die Lernkarte
+tauschen
+der Architekt
+die Architektin
+der Friseur
+die Fiseurin
+der Informatiker
+die Informatikerin
+der Ingenieur
+die Ingenieurin
+der Lehrer
+die Lehrerin
+noch
+der Verkäufer
+die Verkäuferin
+der Elektriker
+die Elektrikerin
+der Erzieher
+die Erzieherin
+der Handwerker
+die Handwerkerin
+der Journalist
+die Journalistin
+der Jurist
+die Juristin
+der Koch
+die Köchin
+der Mechaniker
+die Mechanikerin
+der Polizist
+die Polizistin
+berichten
+die Notiz
+studieren
+an sehen
+das Beispiel
+die Farbe
+stehen
+das Wörterbuch
+das Artikelbild
+blau
+grün
+merken
+rot
+das Taxi
+die Zeichnung
+eigene
+die Adresse
+die Angabe
+der Club
+der Familienname
+das Geburtsdatum
+der Geburtsort
+neu
+persönlich
+zusammen passen
+Basketball
+die E-Mail
+die Firma
+das Formular
+die Hausnummer
+Karate
+kein
+männlich
+die Postleitzahl
+die Schule
+der Sportclub
+Tennis
+wählen
+weiblich
+der Wohnort
+Yoga
+Zumba
+achtzig
+dreißig
+eintausend
+fünfzig
+die Milliarde
+die Million
+neunzig
+sechzig
+siebzig
+tausend
+verabreden
+vierzig

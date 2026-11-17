@@ -1,1 +1,248 @@
-
+gern ; gladly
+die Leute ; people
+fotografieren ; to photograph
+der Freund ; male friend
+die Fruendin ; female friend
+joggen ; to jog
+der Kollege ; male colleague
+die Kollegin ; female colleague
+die Musik ; music
+singen ; to sing
+tanzen ; to dance
+an kreuzen ; to mark
+gehen ; to go
+das Kino ; cinema
+kochen ; to cook
+reisen ; to travel
+schwimmen ; to swim
+antworten ; to answer
+arbeiten ; to work
+gehen ; to go
+ja ; yes
+nein ; no
+so ; so
+das Buch ; book
+Fußball ; soccer
+lieben ; to love
+die Sensation ; sensation
+super ; super
+toll ; great
+wir ; we
+am ; at
+arbeiten ; to work
+die Endung ; ending
+das Foto ; photo
+ihr ; you (plural)
+der Kommentar ; comment
+lustig ; funny
+der Moment ; moment
+morgen ; tomorrow
+die Spaghetti ; spaghetti
+von ; from
+wirklich ; really
+das Wochenende ; weekend
+dritt ; third
+die Form ; form
+der Infinitiv ; infinitive
+nennen ; to name
+das Hobby ; hobby
+mit ; with
+der Dienstag ; Tuesday
+der Donnerstag ; Thursday
+der Freitag ; Friday
+der Mittwoch ; Wednesday
+der Montag ; Monday
+der Samstag ; Saturday
+der Sonntag ; Sunday
+wann ; when
+der Wochentag ; day of the week
+die Frage ; question
+gehen ; to go
+leider ; unfortunately
+nach sprechen ; to repeat (after someone)
+nachgesprochen ; repeated (after someone)
+die Satzmelodie ; sentence intonation
+achten ; to pay attention to
+auf ; to
+für ; for
+oft ; often
+das Cafe ; café
+durch ; through
+die Ja/Nein Frage ; yes/no question
+jede ; every
+dur Kursraum ; course room
+das Museum ; museum
+das Restaurant ; restaurant
+das Schwimmbad ; swimming pool
+das Stadion ; stadium
+der Tag ; day
+der Termin ; appointment
+das Theater ; theater
+die Verabredung ; engagement
+der Artikel ; article
+der Arzt ; male doctor
+die Ärztin ; female doctor
+das Auto ; car
+der Beruf ; profession
+bestimmt ; definitely
+der Computer ; computer
+feminin ; feminine
+geben ; to give
+das Geld ; money
+das Glas ; glass
+der Kellner ; male waiter
+die Kellnerin ; female waiter
+maskulin ; masculine
+das Medikament ; medication
+mehrere ; several
+die Möglichkeit ; possibility
+neutrum ; neuter
+passen ; to fit
+der Plural ; plural
+die Rechnung ; bill
+der Schlüssel ; key
+die Spritze ; injection
+der Stift ; pen
+die Straße ; street
+der Student ; male student
+die Studentin ; female student
+die Tablette ; pill
+der Taxifahrer ; male taxi driver
+die Taxifahrerin ; female taxi driver
+zu ; to
+markieren ; to highlight
+das Nomen ; noun
+das Kapital ; chapter
+der Kurs ; course
+der Lernwortschatz ; vocabulary to learn
+die Seite ; page
+suchen ; to look for
+das Übungsbuch ; exercise book
+vergleichen ; to compare
+weitere ; further
+der Abend ; evening
+aber ; but
+alt ; old
+bei ; near
+fahren ; to drive
+groß ; big
+haben ; to have
+hier ; here
+das Jahr ; year
+der Kilometer ; kilometer
+das Krankenhaus ; hospital
+der Krankenpfleger ; male nurse
+die Krankenpflegerin ; female nurse
+meistens ; mostly
+der Nachmittag ; the afternoon
+nachts ; at night
+der Patient ; the patient (male)
+die Patientin ; the patient (female)
+der Platz ; the place
+pro ; per
+das Seminar ; the seminar
+die Stunde ; the hour
+die Universität ; the university
+viel ; a lot
+von ; from
+warten ; to wait
+die Woche ; the week
+das Zimmer ; the room
+ab ; from
+alle ; all
+einhundert ; one hundred
+hundert ; hundred
+unterstreichen ; to underline
+die Information ; the information
+von ; of
+präsentieren ; to present
+die Pluralform ; the plural form
+der Singular ; the singular
+Zimmer ; room
+die Pluralendung ; the plural ending
+gegenseitig ; mutually
+die Lernkarte ; the flashcard
+tauschen ; to exchange
+der Architekt ; the architect (male)
+die Architektin ; the architect (female)
+der Friseur ; the hairdresser (male)
+die Fiseurin ; the hairdresser (female)
+der Informatiker ; the computer scientist (male)
+die Informatikerin ; the computer scientist (female)
+der Ingenieur ; the engineer (male)
+die Ingenieurin ; the engineer (female)
+der Lehrer ; the teacher (male)
+die Lehrerin ; the teacher (female)
+noch ; still
+der Verkäufer ; the salesperson (male)
+die Verkäuferin ; the salesperson (female)
+der Elektriker ; the electrician (male)
+die Elektrikerin ; the electrician (female)
+der Erzieher ; the teacher (male)
+die Erzieherin ; the teacher (female)
+der Handwerker ; the tradesperson (male)
+die Handwerkerin ; the tradesperson (female)
+der Journalist ; the journalist (male)
+die Journalistin ; the journalist (female)
+der Jurist ; the lawyer (male)
+die Juristin ; the lawyer (female)
+der Koch ; the cook (male)
+die Köchin ; the cook (female)
+der Mechaniker ; the mechanic (male)
+die Mechanikerin ; the mechanic (female)
+der Polizist ; the police officer (male)
+die Polizistin ; the police officer (female)
+berichten ; to report
+die Notiz ; the note
+studieren ; to study
+an sehen ; to look at
+das Beispiel ; the example
+die Farbe ; the color
+stehen ; to stand
+das Wörterbuch ; the dictionary
+das Artikelbild ; the article image
+blau ; blue
+grün ; green
+merken ; to memorize
+rot ; red
+das Taxi ; the taxi
+die Zeichnung ; the drawing
+eigene ; own
+die Adresse ; the address
+die Angabe ; the detail
+der Club ; the club
+der Familienname ; the surname
+das Geburtsdatum ; the date of birth
+der Geburtsort ; the place of birth
+neu ; new
+persönlich ; personal
+zusammen passen ; to go together
+Basketball ; basketball
+die E-Mail ; the e-mail
+die Firma ; the company
+das Formular ; the form
+die Hausnummer ; the house number
+Karate ; karate
+kein ; no/not any
+männlich ; male
+die Postleitzahl ; the postal code
+die Schule ; the school
+der Sportclub ; the sports club
+Tennis ; tennis
+wählen ; to choose
+weiblich ; female
+der Wohnort ; the place of residence
+Yoga ; yoga
+Zumba ; zumba
+achtzig ; eighty
+dreißig ; thirty
+eintausend ; one thousand
+fünfzig ; fifty
+die Milliarde ; the billion
+die Million ; the million
+neunzig ; ninety
+sechzig ; sixty
+siebzig ; seventy
+tausend ; thousand
+verabreden ; to arrange to meet
+vierzig ; forty
